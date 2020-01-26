@@ -1,3 +1,5 @@
+// This is a child component of each task to be done
+
 import React from "react"
 
 function TodoItem(props) {
