@@ -1,3 +1,5 @@
+// This is where the child components are displayed altogether with the data from todosData
+
 import React, { Component } from "react"
 import TodoItem from "./components/TodoItem"
 import todosData from "./components/todosData"
